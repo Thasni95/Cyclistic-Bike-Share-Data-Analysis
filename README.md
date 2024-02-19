@@ -1,7 +1,7 @@
 <h1><b> Google Data Analytic Capstone Project Cyclistic Case Study Using SQL And Tableau</b></h1>
 
 # Introduction
-As part of the Google Data Analytics Professional Certificate course available on Coursera, I chose to utilize SQL and Tableau to enhance my skills in data analysis. I applied these tools throughout the entire data analysis process, including asking relevant questions, preparing the data, processing it, analyzing insights, sharing findings, and taking actionable steps based on the results.
+As part of the Google Data Analytics Professional Certificate course available on Coursera, I chose to utilize SQL and Tableau to enhance my skills in data analysis. I applied these tools throughout the entire data analysis process, including asking relevant questions, preparing the data, processing it, analyzing insights, sharing findings, and taking actionable steps based on the results.  
 
 # Scenario
 As a junior data analyst part of the marketing analyst team at Cyclistic, a bike-share company based in Chicago, I'm tasked with a crucial objective: maximizing annual memberships to drive the company's future success. To achieve this goal, our team aims to analyze the distinct usage patterns of Cyclistic bikes between casual riders and annual members. By gaining valuable insights from this analysis, we plan to craft a new marketing strategy focused on converting casual riders into annual members. However, our recommendations must undergo approval from Cyclistic executives, necessitating strong support from compelling data insights and professional data visualizations.
